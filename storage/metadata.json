@@ -1,0 +1,23 @@
+{
+  "emojis": [
+    {
+      "name": "test",
+      "fileName": "000001.png",
+      "filePath": "2025/06/23/000001.png",
+      "fileSize": 7859,
+      "mimeType": "image/png",
+      "width": 225,
+      "height": 225,
+      "category": "meme",
+      "tags": [
+        "test"
+      ],
+      "id": "000002",
+      "likes": 0,
+      "downloads": 1,
+      "uploadedAt": "2025-06-23T00:05:33.420Z"
+    }
+  ],
+  "currentId": 3,
+  "lastUpdated": "2025-06-23T00:05:39.367Z"
+}

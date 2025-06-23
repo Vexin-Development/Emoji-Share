@@ -1,0 +1,30 @@
+{
+  "name": "discord-emoji-hub",
+  "version": "1.0.0",
+  "description": "Official JavaScript/TypeScript SDK for Discord Emoji Hub",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "discord",
+    "emoji",
+    "api",
+    "sdk",
+    "typescript"
+  ],
+  "author": "Vexing Development",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
